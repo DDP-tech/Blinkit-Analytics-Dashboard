@@ -40,7 +40,7 @@ Helps stakeholders understand sales patterns, customer demand, and regional stre
 Supports marketing teams in evaluating campaign effectiveness, optimizing channel strategy, and improving return on marketing efforts.
 
 **Dashboard Preview:**
-![Marketing Dashboard Preview](https://i.ibb.co/nMrZQCZT/Marketing-Dashboard-Preview.png)
+![Marketing Dashboard Preview](https://i.ibb.co/prXbpnNV/Marketing-Dashboard-Preview.png)
 
 ---
 
