@@ -89,7 +89,7 @@ This project was created as part of an **early learning exercise in business ana
 
 ---
 
-## ✍️ Author
+## ✍️ Creator
 
 **Creator:** Divyadarshan Pattanayak\
 **Date:** September 2025
